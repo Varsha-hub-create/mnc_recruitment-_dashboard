@@ -1,0 +1,14 @@
+Sum of Experience (Years),Column Labels,,,
+company name,Rejected,Selected,(blank),Grand Total
+Amazon,19,32,,51
+Apple,21,35,,56
+Cisco,68,,,68
+Facebook,30,11,,41
+Google,0,44,,44
+IBM,20,18,,38
+Intel,35,22,,57
+Microsoft,55,24,,79
+Oracle,1,26,,27
+Tesla,24,22,,46
+(blank),,,,
+Grand Total,273,234,,507

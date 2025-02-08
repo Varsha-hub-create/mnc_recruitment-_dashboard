@@ -1,0 +1,101 @@
+Candidate_ID,Name,Age,Education,Experience (Years),Technical_Score,HR_Interview_Score,Company_Name,Final_Status,Location,Countries
+1,John Thompson,23,B.Tech,9,86,83,Oracle,Selected,"Redwood City, CA",USA
+2,Chris Martin,26,B.Sc,8,99,80,Oracle,Selected,"Redwood City, CA",Canada
+3,Daniel Johnson,24,BCA,2,85,92,Tesla,Selected,"Austin, TX",Germany
+4,Jessica Johnson,34,B.Com,8,68,71,Cisco,Rejected,"San Jose, CA",UK
+5,Linda Clark,33,M.Sc,10,64,66,IBM,Rejected,"Armonk, NY",France
+6,Daniel Johnson,35,MCA,8,88,95,Amazon,Selected,"Seattle, WA",Australia
+7,John Doe,33,BBA,4,52,59,Facebook,Rejected,"Menlo Park, CA",India
+8,Laura Martinez,30,M.Tech,5,73,79,Google,Selected,"Mountain View, CA",USA
+9,Robert Lopez,28,B.Sc,3,71,93,Facebook,Selected,"Menlo Park, CA",Canada
+10,James Thompson,26,MCA,1,94,76,Microsoft,Selected,"Redmond, WA",Germany
+11,Olivia Garcia,34,BCA,5,56,50,Microsoft,Rejected,"Redmond, WA",UK
+12,Sophia Lopez,30,BBA,10,76,51,Microsoft,Rejected,"Redmond, WA",France
+13,Michael White,28,BCA,7,100,75,Microsoft,Selected,"Redmond, WA",Australia
+14,Ethan Smith,26,B.Com,3,60,51,Facebook,Rejected,"Menlo Park, CA",India
+15,Laura Lopez,29,B.Com,10,90,51,Tesla,Rejected,"Austin, TX",Japan
+16,Brian Johnson,32,BBA,4,54,90,Tesla,Rejected,"Austin, TX",Brazil
+17,Chris Garcia,34,BBA,4,62,73,Intel,Rejected,"Santa Clara, CA",China
+18,Daniel Davis,27,B.Com,5,94,96,Oracle,Selected,"Redwood City, CA",Mexico
+19,Emily Doe,33,BBA,10,59,65,Amazon,Rejected,"Seattle, WA",Spain
+20,Emily Gonzalez,22,B.Sc,3,81,89,Oracle,Selected,"Redwood City, CA",Italy
+21,Jessica Wilson,32,M.Tech,10,73,82,Apple,Selected,"Cupertino, CA",Netherlands
+22,Michael Martinez,27,Ph.D,1,70,52,Intel,Rejected,"Santa Clara, CA",Switzerland
+23,Robert Brown,25,MCA,10,97,87,IBM,Selected,"Armonk, NY",Sweden
+24,Susan Martin,25,M.Sc,8,85,72,Intel,Selected,"Santa Clara, CA",South Korea
+25,Jessica Wilson,26,MCA,7,94,72,Google,Selected,"Mountain View, CA",Singapore
+26,Mark Walker,30,B.Sc,4,87,90,Tesla,Selected,"Austin, TX",UAE
+27,Olivia Davis,24,B.Tech,2,51,61,Tesla,Rejected,"Austin, TX",South Africa
+28,Daniel Gonzalez,32,BCA,2,86,71,Intel,Selected,"Santa Clara, CA",Ireland
+29,Brian Anderson,27,B.Tech,6,51,88,Intel,Rejected,"Santa Clara, CA",Belgium
+30,Daniel Wilson,31,Ph.D,6,73,50,Cisco,Rejected,"San Jose, CA",Russia
+31,Michael Hall,26,B.Sc,0,72,67,Google,Rejected,"Mountain View, CA",Portugal
+32,Emily Davis,25,M.Sc,0,67,51,Cisco,Rejected,"San Jose, CA",Austria
+33,Ava Anderson,26,B.Com,5,76,50,Facebook,Rejected,"Menlo Park, CA",Denmark
+34,Ava Hall,35,MCA,5,93,72,Google,Selected,"Mountain View, CA",Finland
+35,Laura Wilson,33,BCA,8,60,97,Amazon,Selected,"Seattle, WA",Norway
+36,Olivia Moore,25,BBA,4,66,85,Facebook,Selected,"Menlo Park, CA",New Zealand
+37,Michael White,27,Ph.D,7,50,100,Amazon,Selected,"Seattle, WA",USA
+38,Daniel Davis,25,BCA,6,94,75,Apple,Selected,"Cupertino, CA",Canada
+39,James White,33,B.Com,6,63,58,Facebook,Rejected,"Menlo Park, CA",Germany
+40,Emily Moore,23,M.Sc,10,61,54,Cisco,Rejected,"San Jose, CA",UK
+41,Linda Thompson,30,Ph.D,2,50,89,Intel,Rejected,"Santa Clara, CA",France
+42,Daniel Davis,33,M.Sc,1,92,66,Google,Selected,"Mountain View, CA",Australia
+43,Sophia Wilson,35,Ph.D,2,96,76,Microsoft,Selected,"Redmond, WA",India
+44,David Moore,30,MCA,4,61,100,Microsoft,Selected,"Redmond, WA",Japan
+45,Ava Lopez,31,B.Tech,8,73,58,Cisco,Rejected,"San Jose, CA",Brazil
+46,Mark Davis,31,MBA,7,54,89,Facebook,Rejected,"Menlo Park, CA",China
+47,Mark Doe,28,MCA,4,61,98,Tesla,Selected,"Austin, TX",Mexico
+48,Chris White,27,B.Com,6,64,64,Microsoft,Rejected,"Redmond, WA",Spain
+49,Jane Walker,31,MBA,8,52,90,Cisco,Rejected,"San Jose, CA",Italy
+50,Sophia Harris,30,M.Tech,3,84,91,Intel,Selected,"Santa Clara, CA",Netherlands
+51,Ethan Gonzalez,35,Ph.D,3,56,60,IBM,Rejected,"Armonk, NY",Switzerland
+52,Ava Smith,34,M.Tech,1,69,95,Oracle,Selected,"Redwood City, CA",Sweden
+53,Michael Smith,35,Ph.D,2,90,77,Tesla,Selected,"Austin, TX",South Korea
+54,David Thompson,31,MCA,1,79,56,Oracle,Rejected,"Redwood City, CA",Singapore
+55,Jane Lee,32,B.Tech,7,68,53,Cisco,Rejected,"San Jose, CA",UAE
+56,Brian Johnson,24,MBA,7,64,69,Cisco,Rejected,"San Jose, CA",South Africa
+57,Laura Wilson,25,M.Tech,3,80,89,Tesla,Selected,"Austin, TX",Ireland
+58,Ava Martin,32,M.Tech,3,87,56,Facebook,Rejected,"Menlo Park, CA",Belgium
+59,Susan Wilson,32,B.Sc,3,74,79,Microsoft,Selected,"Redmond, WA",Russia
+60,Brian Harris,33,B.Tech,4,61,62,Apple,Rejected,"Cupertino, CA",Portugal
+61,Laura Brown,25,B.Tech,7,50,60,Intel,Rejected,"Santa Clara, CA",Austria
+62,Laura Doe,34,MBA,9,81,57,Microsoft,Rejected,"Redmond, WA",Denmark
+63,Emily Hall,28,Ph.D,7,72,95,Amazon,Selected,"Seattle, WA",Finland
+64,David Davis,32,MCA,10,50,89,Apple,Rejected,"Cupertino, CA",Norway
+65,Olivia Martinez,35,MBA,4,75,96,Microsoft,Selected,"Redmond, WA",New Zealand
+66,Susan Moore,30,BCA,2,85,74,Amazon,Selected,"Seattle, WA",USA
+67,Michael Thompson,31,B.Sc,9,76,90,Intel,Selected,"Santa Clara, CA",Canada
+68,Ethan Lee,32,MBA,1,76,63,Apple,Rejected,"Cupertino, CA",Germany
+69,Ethan Martin,34,B.Com,3,93,95,Microsoft,Selected,"Redmond, WA",UK
+70,Olivia Lopez,30,BBA,9,93,71,Google,Selected,"Mountain View, CA",France
+71,David Doe,35,Ph.D,8,91,64,IBM,Selected,"Armonk, NY",Australia
+72,Michael Clark,32,BBA,6,71,74,Apple,Rejected,"Cupertino, CA",India
+73,James Garcia,28,BCA,10,80,88,Google,Selected,"Mountain View, CA",Japan
+74,Olivia Clark,29,MBA,0,91,52,Tesla,Rejected,"Austin, TX",Brazil
+75,David White,33,B.Com,5,95,63,Apple,Selected,"Cupertino, CA",China
+76,Ethan Clark,22,MBA,6,59,70,Intel,Rejected,"Santa Clara, CA",Mexico
+77,Ava Harris,35,Ph.D,6,96,72,Google,Selected,"Mountain View, CA",Spain
+78,Jessica Lee,35,MCA,8,68,73,Tesla,Rejected,"Austin, TX",Italy
+79,Linda Wilson,31,M.Tech,9,53,62,Cisco,Rejected,"San Jose, CA",Netherlands
+80,Mark Lee,29,MBA,8,97,94,Apple,Selected,"Cupertino, CA",Switzerland
+81,David Moore,24,M.Tech,0,92,100,Facebook,Selected,"Menlo Park, CA",Sweden
+82,Jane Davis,25,MCA,2,70,69,Facebook,Rejected,"Menlo Park, CA",South Korea
+83,David Thompson,27,B.Sc,3,56,57,Cisco,Rejected,"San Jose, CA",Singapore
+84,Michael Gonzalez,25,MCA,5,84,66,Tesla,Selected,"Austin, TX",UAE
+85,Jessica Anderson,26,MBA,9,52,92,Amazon,Rejected,"Seattle, WA",South Africa
+86,Chris Clark,25,B.Com,0,55,55,Tesla,Rejected,"Austin, TX",Ireland
+87,Michael Moore,26,BBA,5,64,55,IBM,Rejected,"Armonk, NY",Belgium
+88,James Wilson,31,M.Sc,6,72,55,Microsoft,Rejected,"Redmond, WA",Russia
+89,Emma White,22,M.Tech,1,100,98,Google,Selected,"Mountain View, CA",Portugal
+90,Mark Moore,26,Ph.D,2,63,68,Cisco,Rejected,"San Jose, CA",Austria
+91,Emma Hall,28,MCA,0,78,74,Google,Selected,"Mountain View, CA",Denmark
+92,Robert Thompson,28,B.Tech,2,55,78,IBM,Rejected,"Armonk, NY",Finland
+93,Susan Smith,26,Ph.D,7,56,82,Microsoft,Rejected,"Redmond, WA",Norway
+94,Susan Johnson,26,M.Tech,8,64,84,Microsoft,Rejected,"Redmond, WA",New Zealand
+95,Michael Gonzalez,31,BBA,9,51,52,Intel,Rejected,"Santa Clara, CA",USA
+96,David Walker,30,BBA,4,100,94,Facebook,Selected,"Menlo Park, CA",Canada
+97,Susan Lopez,35,B.Tech,4,55,67,Microsoft,Rejected,"Redmond, WA",Germany
+98,Linda White,33,B.Com,6,66,84,Apple,Selected,"Cupertino, CA",UK
+99,David Harris,34,MBA,2,96,88,Tesla,Selected,"Austin, TX",France
+100,Susan Brown,33,M.Tech,0,99,88,Apple,Selected,"Cupertino, CA",Australia
